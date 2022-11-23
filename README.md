@@ -5,7 +5,7 @@
 - 💬 Ask me about the intersection of technology and energy – I've spent over a fifteen years working on the tough challenges in this space!
 - 📫 How to reach me: reach out on 🐦 [@joelmcourtney](https://twitter.com/joelmcourtney)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm an avid bike rider (slightly sidelined with two young kids yet to his school) - even taking my bike with me on a work trip to Japan!
+- ⚡ Fun fact: I'm an avid bike rider (slightly sidelined with two young kids - one in school, one not yet) - even taking my bike with me on a work trip to Japan!
 
 <!--
 **jufemaiz/jufemaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
