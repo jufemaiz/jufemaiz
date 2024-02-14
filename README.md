@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Enosi](https://enosi.energy/)'s Powertracer platform
 - 🌱 I’m always learning
-- 💬 Ask me about the intersection of technology and energy – I've spent over a fifteen years working on the tough challenges in this space!
+- 💬 Ask me about the intersection of technology and energy – I've spent nearly twenty years working on the tough challenges in this space!
 - 📫 How to reach me: reach out on 🐦 [@joelmcourtney](https://twitter.com/joelmcourtney) or 🐘 [@joelmcourtney@mastodon.online](https://mastodon.online/@joelmcourtney)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm an avid rider of bicycles - even taking my bike with me on a work trip to Japan!
